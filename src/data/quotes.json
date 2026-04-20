@@ -1,0 +1,146 @@
+[
+  {
+    "source": "SWAHILI",
+    "location": "East African Coast",
+    "latitude": -5.1,
+    "longitude": 38.6,
+    "background": "Coastal Bantu group influenced by Swahili and Indian Ocean trade.",
+    "quote": "God made the sea, we make the ship; He made the wind, we make the sail; He made the calm, we make oars."
+  },
+  {
+    "source": "KANURI",
+    "location": "Nigeria/Chad",
+    "latitude": 12.0,
+    "longitude": 7.6,
+    "background": "A major ethnic group in the Lake Chad basin with a long imperial history.",
+    "quote": "Verily, beauty is power."
+  },
+  {
+    "source": "GANDA",
+    "location": "Uganda",
+    "latitude": 0.31,
+    "longitude": 32.58,
+    "background": "Central Ugandan kingdom (Buganda); strong monarchy and clan system.",
+    "quote": "If you suffer in order to be beautiful, don't blame anyone but yourself."
+  },
+  {
+    "source": "OJI (Akan)",
+    "location": "Ghana",
+    "latitude": 6.69,
+    "longitude": -1.63,
+    "background": "Part of Akan people; known for gold culture and strong matrilineal traditions.",
+    "quote": "The bird caught in the trap is the one to sing sweetly."
+  },
+  {
+    "source": "ERNESTINE ANDERSON",
+    "location": "USA (Texas)",
+    "latitude": 31.96,
+    "longitude": -99.9,
+    "background": "An American jazz and blues singer whose career spanned over six decades.",
+    "quote": "Everybody is influenced by somebody or something. If there is an original who is the original?"
+  },
+  {
+    "source": "GLORIA NAYLOR",
+    "location": "USA (Mississippi)",
+    "latitude": 32.35,
+    "longitude": -89.39,
+    "background": "An American novelist known for exploring the social status of Black women.",
+    "quote": "One should be able to return to the first sentence of a novel and find the resonances of the entire work."
+  },
+  {
+    "source": "JAMES BALDWIN",
+    "location": "USA (New York)",
+    "latitude": 40.71,
+    "longitude": -74.0,
+    "background": "Renowned writer and social critic who explored issues of race and class.",
+    "quote": "Every society is really governed by hidden laws... it is up to the American writer to find out what these laws are."
+  },
+  {
+    "source": "SHERLEY ANNE WILLIAMS",
+    "location": "USA (California)",
+    "latitude": 36.77,
+    "longitude": -119.41,
+    "background": "Poet and novelist whose work was deeply influenced by blues music and oral traditions.",
+    "quote": "Blues is a basis of historical continuity for black people. It is a ritualized way of talking about ourselves."
+  },
+  {
+    "source": "LUCILLE CLIFTON",
+    "location": "USA (New York)",
+    "latitude": 42.88,
+    "longitude": -78.87,
+    "background": "Award-winning poet who focused on African American family life and heritage.",
+    "quote": "People wish to be poets more than they wish to write poetry and that's a mistake."
+  },
+  {
+    "source": "ART BLAKEY",
+    "location": "USA (Pennsylvania)",
+    "latitude": 40.44,
+    "longitude": -79.99,
+    "background": "Jazz drummer and pioneer of Hard Bop; leader of the Jazz Messengers.",
+    "quote": "Music should wash away the dust of his everyday life."
+  },
+  {
+    "source": "MARGARET WALKER",
+    "location": "USA (Alabama)",
+    "latitude": 32.31,
+    "longitude": -86.3,
+    "background": "Poet and writer known for her epic novel 'Jubilee' and her focus on the Black experience.",
+    "quote": "A writer needs certain conditions... She needs a piece of time; a peace of mind; a quiet place."
+  },
+  {
+    "source": "MOROCCO",
+    "location": "Morocco",
+    "latitude": 31.79,
+    "longitude": -7.09,
+    "background": "North African nation where Arab and Berber (Amazigh) cultures intersect.",
+    "quote": "Beauty is in the oleander and the oleander is bitter."
+  },
+  {
+    "source": "OSSIE DAVIS",
+    "location": "USA (Georgia)",
+    "latitude": 32.16,
+    "longitude": -82.9,
+    "background": "Influential actor, director, and civil rights activist.",
+    "quote": "Artistic innovators are the most valuable citizens of our society."
+  },
+  {
+    "source": "SEPTIMA POINSETTE CLARK",
+    "location": "USA (South Carolina)",
+    "latitude": 32.77,
+    "longitude": -79.93,
+    "background": "Known as the 'Mother of the Movement,' a pioneering educator and civil rights activist.",
+    "quote": "Whenever there is chaos, it creates wonderful thinking."
+  },
+  {
+    "source": "LEONTYNE PRICE",
+    "location": "USA (Mississippi)",
+    "latitude": 31.44,
+    "longitude": -89.29,
+    "background": "Internationally acclaimed opera soprano, one of the first African Americans to achieve such fame.",
+    "quote": "Art is the only thing you cannot push a button for."
+  },
+  {
+    "source": "WOLOF",
+    "location": "Senegal",
+    "latitude": 12.65,
+    "longitude": -8.0,
+    "background": "Major ethnic group in Senegal and Gambia; known for trade and oral history.",
+    "quote": "Slowly, slowly, one must stalk the monkey in the bush."
+  },
+  {
+    "source": "EWE",
+    "location": "Ghana/Togo",
+    "latitude": 6.13,
+    "longitude": 1.22,
+    "background": "West African group with strong oral traditions and a complex drumming culture.",
+    "quote": "In crooked wood one recognizes the artist."
+  },
+  {
+    "source": "AYI KWEI ARMAH",
+    "location": "Ghana",
+    "latitude": 5.56,
+    "longitude": -0.2,
+    "background": "Ghanaian novelist whose work explores post-colonial identity and African history.",
+    "quote": "There is no beauty but in relationships. Nothing cut off by itself is beautiful."
+  }
+]

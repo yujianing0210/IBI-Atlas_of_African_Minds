@@ -1,0 +1,401 @@
+[
+  {
+    "tribe": "Amharic",
+    "country_region": "Ethiopia",
+    "latitude": 9.03,
+    "longitude": 38.74,
+    "summary": "Semitic-speaking group central to Ethiopian history; associated with Orthodox Christianity and imperial state formation."
+  },
+  {
+    "tribe": "Ashanti",
+    "country_region": "Ghana",
+    "latitude": 6.69,
+    "longitude": -1.63,
+    "summary": "Part of Akan people; known for the Ashanti Empire, gold culture, and strong matrilineal traditions."
+  },
+  {
+    "tribe": "Bakongo",
+    "country_region": "DR Congo (Zaire)",
+    "latitude": -5.83,
+    "longitude": 13.05,
+    "summary": "Bantu-speaking group; historically part of the Kingdom of Kongo with complex spiritual cosmology."
+  },
+  {
+    "tribe": "Bambara",
+    "country_region": "Mali (Senegal region listed)",
+    "latitude": 12.65,
+    "longitude": -8.0,
+    "summary": "Major Mande ethnic group; rich oral traditions and agricultural society."
+  },
+  {
+    "tribe": "Bantu",
+    "country_region": "Southern Africa",
+    "latitude": -15.0,
+    "longitude": 25.0,
+    "summary": "Large linguistic-cultural family spanning central and southern Africa; known for migration and language diffusion."
+  },
+  {
+    "tribe": "Basa",
+    "country_region": "Liberia & Nigeria",
+    "latitude": 6.3,
+    "longitude": -10.8,
+    "summary": "Coastal West African group; known for trade networks and indigenous belief systems."
+  },
+  {
+    "tribe": "Basotho",
+    "country_region": "Lesotho",
+    "latitude": -29.31,
+    "longitude": 27.48,
+    "summary": "Southern African people with strong pastoral traditions and mountainous cultural identity."
+  },
+  {
+    "tribe": "Batswana",
+    "country_region": "Botswana",
+    "latitude": -24.65,
+    "longitude": 25.91,
+    "summary": "Tswana-speaking people; known for cattle culture and community-based governance."
+  },
+  {
+    "tribe": "Bemba",
+    "country_region": "Northern Zimbabwe",
+    "latitude": -10.21,
+    "longitude": 31.18,
+    "summary": "Agricultural society in central Africa; matrilineal traditions and chieftaincy structures."
+  },
+  {
+    "tribe": "Bondei",
+    "country_region": "Kenya",
+    "latitude": -5.1,
+    "longitude": 38.6,
+    "summary": "Coastal Bantu group influenced by Swahili and Indian Ocean trade."
+  },
+  {
+    "tribe": "Galla",
+    "country_region": "Ethiopia",
+    "latitude": 8.98,
+    "longitude": 38.79,
+    "summary": "A historical exonym usually referring to the Oromo. One of the largest ethnolinguistic groups in the Horn of Africa, with rich pastoral and agricultural traditions and the Gadaa socio-political system."
+  },
+  {
+    "tribe": "Ho (Ewe)",
+    "country_region": "Togo",
+    "latitude": 6.60,
+    "longitude": 0.47,
+    "summary": "Refers to Ewe-speaking communities associated with the Ho area and neighboring regions. Ewe traditions are well known for oral literature, drumming, dance, and strong lineage-based social organization."
+  },
+  {
+    "tribe": "Ibo",
+    "country_region": "Nigeria",
+    "latitude": 5.49,
+    "longitude": 7.03,
+    "summary": "Usually standardized as Igbo. A major ethnic group of southeastern Nigeria known for decentralized political organization, trade networks, entrepreneurship, and a rich corpus of proverbs and ritual traditions."
+  },
+  {
+    "tribe": "Ila",
+    "country_region": "Zambia",
+    "latitude": -15.78,
+    "longitude": 26.43,
+    "summary": "A Bantu-speaking people associated mainly with Zambia rather than Zimbabwe. Traditionally known for cattle keeping, floodplain agriculture, and social life organized around kinship and local chiefs."
+  },
+  {
+    "tribe": "Jabo",
+    "country_region": "Liberia",
+    "latitude": 4.38,
+    "longitude": -7.72,
+    "summary": "A Kru-speaking group of southeastern Liberia. Jabo communities are part of the larger coastal-cultural world of the Kru peoples, known for oral traditions, seafaring, and local ritual systems."
+  },
+  {
+    "tribe": "Jukun",
+    "country_region": "Nigeria",
+    "latitude": 7.87,
+    "longitude": 9.78,
+    "summary": "An ethnolinguistic group centered in the Middle Belt of Nigeria, historically connected to the Kwararafa confederacy. Jukun traditions include elaborate kingship structures, ritual authority, and riverine agriculture."
+  },
+  {
+    "tribe": "Kanuri (Bornu)",
+    "country_region": "Nigeria",
+    "latitude": 11.84,
+    "longitude": 13.15,
+    "summary": "A major Saharan-Sahelian people historically linked to the Kanem-Bornu Empire. Kanuri society is associated with trans-Saharan trade, Islam, courtly traditions, and long-standing political influence in the Lake Chad region."
+  },
+  {
+    "tribe": "Kikuyu (Gikuyu)",
+    "country_region": "Kenya",
+    "latitude": -0.67,
+    "longitude": 37.31,
+    "summary": "The largest ethnic group in Kenya, centered in the central highlands. Kikuyu society has strong agricultural foundations, clan-based histories, and a major role in Kenya’s anti-colonial political movements."
+  },
+  {
+    "tribe": "Kru",
+    "country_region": "Liberia",
+    "latitude": 5.01,
+    "longitude": -8.04,
+    "summary": "A broad cultural-linguistic grouping along the Liberian and Ivorian coast. Kru peoples are historically noted for maritime labor, mobility, and a diversity of related but distinct communities."
+  },
+  {
+    "tribe": "Kweli",
+    "country_region": "Cameroon",
+    "latitude": 5.96,
+    "longitude": 10.16,
+    "summary": "A small ethnolinguistic designation appearing in older compilations; its identification can vary across sources. It is generally associated with western or central Cameroon and local lineage-based cultural traditions."
+  },
+  {
+    "tribe": "Lango",
+    "country_region": "Uganda",
+    "latitude": 2.25,
+    "longitude": 32.90,
+    "summary": "A Nilotic-speaking people of northern Uganda. Lango communities are associated with farming, cattle keeping, clan organization, and a strong oral tradition of praise, proverb, and historical memory."
+  },
+  {
+    "tribe": "Ndebele",
+    "country_region": "South Africa",
+    "latitude": -25.47,
+    "longitude": 29.23,
+    "summary": "Usually referring here to the Southern Ndebele of South Africa. They are widely known for distinctive mural painting, beadwork, homestead design, and a strong visual-symbolic cultural identity."
+  },
+  {
+    "tribe": "Ndanga",
+    "country_region": "Namibia",
+    "latitude": -17.92,
+    "longitude": 15.95,
+    "summary": "A name found in older reference lists and likely connected to communities in northern Namibia; the exact standardized ethnonym is not always consistent. It can be treated as a historical label pending further source verification."
+  },
+  {
+    "tribe": "Ndau",
+    "country_region": "Mozambique",
+    "latitude": -19.12,
+    "longitude": 34.84,
+    "summary": "A Shona-related people living in eastern Zimbabwe and central Mozambique. Ndau traditions combine farming, kinship-based social organization, and religious practices shaped by both local and regional influences."
+  },
+  {
+    "tribe": "Ngone",
+    "country_region": "Malawi",
+    "latitude": -14.98,
+    "longitude": 35.52,
+    "summary": "Usually associated with Ngoni communities in Malawi. The Ngoni trace historical connections to wider southern African migrations and are known for age-regiment systems, cattle culture, and adaptable political organization."
+  },
+  {
+    "tribe": "Nupe",
+    "country_region": "Nigeria",
+    "latitude": 9.61,
+    "longitude": 6.56,
+    "summary": "A major people of central Nigeria centered around the Niger River. Nupe history includes craft production, riverine trade, Islamic scholarship, and the legacy of the Nupe Kingdom."
+  },
+  {
+    "tribe": "Nyang",
+    "country_region": "Cameroon",
+    "latitude": 5.48,
+    "longitude": 9.89,
+    "summary": "A small ethnolinguistic designation in Cameroon appearing in older collections. It is best understood as a localized community identity embedded in the country’s highly diverse linguistic landscape."
+  },
+  {
+    "tribe": "Nyoro",
+    "country_region": "Uganda",
+    "latitude": 1.43,
+    "longitude": 31.35,
+    "summary": "A Bantu-speaking people associated with the historic Kingdom of Bunyoro in western Uganda. Nyoro society is known for kingship traditions, ritual authority, cattle symbolism, and regional political importance."
+  },
+  {
+    "tribe": "Nzima",
+    "country_region": "Côte d’Ivoire",
+    "latitude": 4.95,
+    "longitude": -2.54,
+    "summary": "An Akan-related people living in southeastern Côte d’Ivoire and southwestern Ghana. Nzima communities are associated with coastal trade, chieftaincy, and a rich heritage of oral history and ceremonial life."
+  },
+  {
+    "tribe": "Oji (Ashanti)",
+    "country_region": "Côte d’Ivoire",
+    "latitude": 6.82,
+    "longitude": -5.28,
+    "summary": "This appears to refer to an Akan/Ashanti-related designation in older anthologies. It can be treated as part of the broader Akan cultural world shaped by chieftaincy, gold trade, matriliny, and proverb-rich oral traditions."
+  },
+  {
+    "tribe": "Pedi",
+    "country_region": "South Africa",
+    "latitude": -24.27,
+    "longitude": 29.65,
+    "summary": "Also called Northern Sotho or Sepedi in many contexts. A major Southern African people with histories of chieftaincy, farming, initiation traditions, and strong linguistic-cultural continuity in Limpopo and surrounding areas."
+  },
+  {
+    "tribe": "Shona",
+    "country_region": "Zimbabwe",
+    "latitude": -17.83,
+    "longitude": 31.05,
+    "summary": "A major ethnolinguistic group of Zimbabwe, though your source lists South Africa. Shona history is linked to Great Zimbabwe, spirit mediumship traditions, agriculture, sculpture, and an extensive proverb tradition."
+  },
+  {
+    "tribe": "Songe (Kongo)",
+    "country_region": "Democratic Republic of the Congo",
+    "latitude": -6.14,
+    "longitude": 23.59,
+    "summary": "Usually standardized as Songye. A Central African people known especially for sculpture, power figures, masking traditions, and ritual specialists within a broader Congo cultural sphere."
+  },
+  {
+    "tribe": "Sotho",
+    "country_region": "Lesotho",
+    "latitude": -29.31,
+    "longitude": 27.48,
+    "summary": "A Southern African people closely associated with Lesotho and neighboring South Africa. Sotho-speaking communities are known for pastoral life, clan organization, praise poetry, and political consolidation under Moshoeshoe I."
+  },
+  {
+    "tribe": "Sumer",
+    "country_region": "Sumer (ancient Mesopotamia, present-day Iraq)",
+    "latitude": 31.32,
+    "longitude": 45.64,
+    "summary": "Not African, but an ancient civilization of southern Mesopotamia included in the book’s broader wisdom collection. Sumerian culture is foundational to urban civilization, writing, kingship, and early literary traditions."
+  },
+  {
+    "tribe": "Suriname",
+    "country_region": "Suriname",
+    "latitude": 5.85,
+    "longitude": -55.17,
+    "summary": "Not a tribe but a geographic-cultural designation. In the context of diaspora wisdom collections, it likely points to Afro-Surinamese or Maroon traditions shaped by displacement, resistance, and creolized cultural memory."
+  },
+  {
+    "tribe": "Swahili",
+    "country_region": "Kenya and Tanzania coast",
+    "latitude": -4.05,
+    "longitude": 39.67,
+    "summary": "A coastal East African cultural-linguistic world rather than a single tribe. Swahili civilization developed through Indian Ocean trade, Islam, urbanism, multilingual exchange, and a rich literary heritage."
+  },
+  {
+    "tribe": "Tamashek",
+    "country_region": "Central Sahara",
+    "latitude": 20.50,
+    "longitude": 6.30,
+    "summary": "Refers to Tuareg-speaking communities, especially the Tamasheq/Tamashek language sphere. These Saharan peoples are historically associated with caravan trade, mobility, pastoralism, poetry, and strong confederational identities."
+  },
+  {
+    "tribe": "Tiv (Munshi)",
+    "country_region": "Nigeria and Cameroon",
+    "latitude": 7.73,
+    "longitude": 8.54,
+    "summary": "A major people of Nigeria’s Middle Belt, historically also called Munshi in colonial literature. Tiv society is well known for segmentary lineage organization, yam farming, storytelling, and expressive performance traditions."
+  },
+  {
+    "tribe": "Toucouleur",
+    "country_region": "Senegal and Mauritania",
+    "latitude": 16.02,
+    "longitude": -13.51,
+    "summary": "A West African people of the Senegal River valley, closely linked to Pulaar/Fula-speaking traditions. Their history includes Islamic scholarship, state formation, and transregional intellectual exchange."
+  },
+  {
+    "tribe": "Tsonga",
+    "country_region": "Mozambique and South Africa",
+    "latitude": -23.88,
+    "longitude": 31.56,
+    "summary": "A Southern African people spread across Mozambique, South Africa, and nearby regions. Tsonga cultural life is known for music, dance, clan networks, and adaptation across rural and urban settings."
+  },
+  {
+    "tribe": "Tumbulca",
+    "country_region": "Malawi",
+    "latitude": -11.46,
+    "longitude": 33.99,
+    "summary": "Usually standardized as Tumbuka. A major people of northern Malawi and adjacent Zambia and Tanzania, known for farming, oral performance, healing practices, and a historically influential literary language."
+  },
+  {
+    "tribe": "Vai",
+    "country_region": "Liberia and Sierra Leone",
+    "latitude": 6.88,
+    "longitude": -11.38,
+    "summary": "A Mande-speaking people of coastal West Africa, widely noted for the Vai script, one of the continent’s best-known indigenous writing systems, as well as for trade and Islamic scholarly connections."
+  },
+  {
+    "tribe": "Wolof",
+    "country_region": "Senegal",
+    "latitude": 14.69,
+    "longitude": -17.45,
+    "summary": "A major people of Senegal and neighboring states. Wolof culture has been highly influential in language, urban life, trade, Islam, popular music, and political discourse across modern Senegal."
+  },
+  {
+    "tribe": "Xhosa",
+    "country_region": "South Africa",
+    "latitude": -32.29,
+    "longitude": 26.42,
+    "summary": "A major Nguni-speaking people of South Africa, especially the Eastern Cape. Xhosa society is known for oral poetry, initiation rituals, cattle symbolism, and a prominent role in South African intellectual and political history."
+  },
+  {
+    "tribe": "Chagga",
+    "country_region": "Tanzania",
+    "latitude": -3.35,
+    "longitude": 37.34,
+    "summary": "A Bantu-speaking people living on the slopes of Mount Kilimanjaro in Tanzania. The Chagga are known for sophisticated irrigation systems, banana cultivation, cooperative labor, and a strong tradition of entrepreneurship and education."
+  },
+  {
+    "tribe": "Duala",
+    "country_region": "Cameroon",
+    "latitude": 4.05,
+    "longitude": 9.70,
+    "summary": "A coastal Bantu-speaking people of Cameroon centered around the Wouri estuary. Historically dominant traders and intermediaries in the Atlantic commerce, the Duala maintained strong chieftaincy structures and oral traditions."
+  },
+  {
+    "tribe": "Efik",
+    "country_region": "Nigeria",
+    "latitude": 4.97,
+    "longitude": 8.33,
+    "summary": "A people of the Cross River region in southeastern Nigeria. The Efik were prominent in the Atlantic trade era and are known for the Ekpe secret society, a complex masking tradition that regulated commerce and social order."
+  },
+  {
+    "tribe": "Ewe",
+    "country_region": "Ghana",
+    "latitude": 6.13,
+    "longitude": 0.23,
+    "summary": "A major Gbe-speaking people of southeastern Ghana, Togo, and Benin. Ewe culture is celebrated for its intricate drumming, dance traditions, weaving (kente-style cloth), and lineage-based social organization."
+  },
+  {
+    "tribe": "Fanti",
+    "country_region": "Ghana",
+    "latitude": 5.35,
+    "longitude": -1.22,
+    "summary": "An Akan people of the coastal central region of Ghana. The Fanti formed confederacies to resist colonial expansion and are known for asafo companies (warrior associations), matrilineal kinship, and rich oral and material traditions."
+  },
+  {
+    "tribe": "Ga",
+    "country_region": "Ghana",
+    "latitude": 5.55,
+    "longitude": -0.20,
+    "summary": "An indigenous people of the Greater Accra region of Ghana. Ga society is organized around patrilineal clans and priestly offices, with a vibrant festival calendar, fishing heritage, and the Homowo harvest festival as a cultural centerpiece."
+  },
+  {
+    "tribe": "Ganda",
+    "country_region": "Uganda",
+    "latitude": 0.32,
+    "longitude": 32.57,
+    "summary": "The largest ethnic group in Uganda and the people of the historic Buganda Kingdom. Ganda society is known for its highly centralized monarchy, the Kabaka kingship, complex clan system, and significant role in East African political history."
+  },
+  {
+    "tribe": "Hausa",
+    "country_region": "Northern Nigeria",
+    "latitude": 12.00,
+    "longitude": 8.52,
+    "summary": "One of the largest ethnolinguistic groups in West Africa, centered in northern Nigeria and southern Niger. Hausa culture is associated with trans-Saharan trade, Islam, the Hausa city-states, a rich literary tradition in Ajami script, and wide linguistic influence across the region."
+  },
+  {
+    "tribe": "Hutu",
+    "country_region": "Rwanda",
+    "latitude": -1.94,
+    "longitude": 29.87,
+    "summary": "A Bantu-speaking people forming the majority population of Rwanda and a significant portion of Burundi. Hutu communities are historically agricultural, organized around lineage and hill-community (umudugudu) structures, with rich oral traditions of poetry, proverb, and narrative."
+  },
+  {
+    "tribe": "Kamba",
+    "country_region": "Kenya",
+    "latitude": -1.52,
+    "longitude": 37.87,
+    "summary": "A Bantu-speaking people of east-central Kenya. The Kamba are historically noted for long-distance trade networks, renowned wood carving and craftsmanship, age-grade organization, and oral traditions of storytelling and song."
+  },
+  {
+    "tribe": "Yoruba",
+    "country_region": "Southern Nigeria",
+    "latitude": 7.38,
+    "longitude": 3.95,
+    "summary": "One of the largest and most influential ethnic groups in West Africa, centered in southwestern Nigeria. Yoruba civilization is known for its ancient city-states (including Ile-Ife and Oyo), rich cosmological and artistic traditions, the Ifá divination corpus, and wide diaspora presence across the Americas and Caribbean."
+  },
+  {
+    "tribe": "Zulu",
+    "country_region": "South Africa",
+    "latitude": -28.31,
+    "longitude": 30.49,
+    "summary": "The largest ethnic group in South Africa, centered in KwaZulu-Natal. The Zulu Kingdom rose to prominence under Shaka in the early 19th century. Zulu culture is known for its warrior traditions, cattle symbolism, beadwork, praise poetry (izibongo), and enduring influence on Southern African history and identity."
+  }
+]
