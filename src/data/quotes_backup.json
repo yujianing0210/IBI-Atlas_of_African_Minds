@@ -33,7 +33,7 @@
     "id": 4,
     "quote": "The bird caught in the trap is the one to sing sweetly.",
     "name": "OJI (Akan)",
-    "type": "person",
+    "type": "tribe",
     "country_region": "Ghana",
     "latitude": 6.69,
     "longitude": -1.63,
@@ -111,62 +111,58 @@
   },
   {
     "id": 12,
-    "quote": "Artistic innovators are the most valuable citizens of our society.",
-    "name": "OSSIE DAVIS",
-    "type": "person",
-    "country_region": "USA (Georgia)",
+    "quote": "Beauty is in the oleander and the oleander is bitter.",
+    "name": "MOROCCO",
+    "type": "tribe",
+    "country_region": "Morocco",
+    "latitude": 31.79,
+    "longitude": -7.09,
+    "background": "North African nation where Arab and Berber (Amazigh) cultures intersect."
+  }
+]
     "latitude": 32.16,
     "longitude": -82.9,
-    "background": "Influential actor, director, and civil rights activist."
+    "background": "Influential actor, director, and civil rights activist.",
+    "quote": "Artistic innovators are the most valuable citizens of our society."
   },
   {
-    "id": 13,
-    "quote": "Whenever there is chaos, it creates wonderful thinking.",
-    "name": "SEPTIMA POINSETTE CLARK",
-    "type": "person",
-    "country_region": "USA (South Carolina)",
+    "source": "SEPTIMA POINSETTE CLARK",
+    "location": "USA (South Carolina)",
     "latitude": 32.77,
     "longitude": -79.93,
-    "background": "Known as the 'Mother of the Movement,' a pioneering educator and civil rights activist."
+    "background": "Known as the 'Mother of the Movement,' a pioneering educator and civil rights activist.",
+    "quote": "Whenever there is chaos, it creates wonderful thinking."
   },
   {
-    "id": 14,
-    "quote": "Art is the only thing you cannot push a button for.",
-    "name": "LEONTYNE PRICE",
-    "type": "person",
-    "country_region": "USA (Mississippi)",
+    "source": "LEONTYNE PRICE",
+    "location": "USA (Mississippi)",
     "latitude": 31.44,
     "longitude": -89.29,
-    "background": "Internationally acclaimed opera soprano, one of the first African Americans to achieve such fame."
+    "background": "Internationally acclaimed opera soprano, one of the first African Americans to achieve such fame.",
+    "quote": "Art is the only thing you cannot push a button for."
   },
   {
-    "id": 15,
-    "quote": "Slowly, slowly, one must stalk the monkey in the bush.",
-    "name": "WOLOF",
-    "type": "tribe",
-    "country_region": "Senegal",
+    "source": "WOLOF",
+    "location": "Senegal",
     "latitude": 12.65,
     "longitude": -8.0,
-    "background": "Major ethnic group in Senegal and Gambia; known for trade and oral history."
+    "background": "Major ethnic group in Senegal and Gambia; known for trade and oral history.",
+    "quote": "Slowly, slowly, one must stalk the monkey in the bush."
   },
   {
-    "id": 16,
-    "quote": "In crooked wood one recognizes the artist.",
-    "name": "EWE",
-    "type": "tribe",
-    "country_region": "Ghana/Togo",
+    "source": "EWE",
+    "location": "Ghana/Togo",
     "latitude": 6.13,
     "longitude": 1.22,
-    "background": "West African group with strong oral traditions and a complex drumming culture."
+    "background": "West African group with strong oral traditions and a complex drumming culture.",
+    "quote": "In crooked wood one recognizes the artist."
   },
   {
-    "id": 17,
-    "quote": "There is no beauty but in relationships. Nothing cut off by itself is beautiful.",
-    "name": "AYI KWEI ARMAH",
-    "type": "person",
-    "country_region": "Ghana",
+    "source": "AYI KWEI ARMAH",
+    "location": "Ghana",
     "latitude": 5.56,
     "longitude": -0.2,
-    "background": "Ghanaian novelist whose work explores post-colonial identity and African history."
+    "background": "Ghanaian novelist whose work explores post-colonial identity and African history.",
+    "quote": "There is no beauty but in relationships. Nothing cut off by itself is beautiful."
   }
 ]

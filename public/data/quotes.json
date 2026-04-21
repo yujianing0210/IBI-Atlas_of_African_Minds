@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "quote": "God made the sea, we make the ship; He made the wind, we make the sail; He made the calm, we make oars.",
+    "name": "SWAHILI",
+    "type": "tribe",
+    "country_region": "East African Coast",
+    "latitude": -5.1,
+    "longitude": 38.6,
+    "background": "Coastal Bantu group influenced by Swahili and Indian Ocean trade."
+  },
+  {
+    "id": 2,
+    "quote": "Verily, beauty is power.",
+    "name": "KANURI",
+    "type": "tribe",
+    "country_region": "Nigeria/Chad",
+    "latitude": 12.0,
+    "longitude": 7.6,
+    "background": "A major ethnic group in the Lake Chad basin with a long imperial history."
+  },
+  {
+    "id": 3,
+    "quote": "If you suffer in order to be beautiful, don't blame anyone but yourself.",
+    "name": "GANDA",
+    "type": "tribe",
+    "country_region": "Uganda",
+    "latitude": 0.31,
+    "longitude": 32.58,
+    "background": "Central Ugandan kingdom (Buganda); strong monarchy and clan system."
+  },
+  {
+    "id": 4,
+    "quote": "The bird caught in the trap is the one to sing sweetly.",
+    "name": "OJI (Akan)",
+    "type": "tribe",
+    "country_region": "Ghana",
+    "latitude": 6.69,
+    "longitude": -1.63,
+    "background": "Part of Akan people; known for gold culture and strong matrilineal traditions."
+  },
+  {
+    "id": 5,
+    "quote": "Everybody is influenced by somebody or something. If there is an original who is the original?",
+    "name": "ERNESTINE ANDERSON",
+    "type": "person",
+    "country_region": "USA (Texas)",
+    "latitude": 31.96,
+    "longitude": -99.9,
+    "background": "An American jazz and blues singer whose career spanned over six decades."
+  },
+  {
+    "id": 6,
+    "quote": "One should be able to return to the first sentence of a novel and find the resonances of the entire work.",
+    "name": "GLORIA NAYLOR",
+    "type": "person",
+    "country_region": "USA (Mississippi)",
+    "latitude": 32.35,
+    "longitude": -89.39,
+    "background": "An American novelist known for exploring the social status of Black women."
+  },
+  {
+    "id": 7,
+    "quote": "Every society is really governed by hidden laws, by unspoken but profound assumptions on the part of the people, and ours is no exception. It is up to the American writer to find out what these laws and assumptions are.",
+    "name": "JAMES BALDWIN",
+    "type": "person",
+    "country_region": "USA (New York)",
+    "latitude": 40.71,
+    "longitude": -74.0,
+    "background": "Renowned writer and social critic who explored issues of race and class."
+  },
+  {
+    "id": 8,
+    "quote": "Blues is a basis of historical continuity for black people. It is a ritualized way of talking about ourselves and passing it on.",
+    "name": "SHERLEY ANNE WILLIAMS",
+    "type": "person",
+    "country_region": "USA (California)",
+    "latitude": 36.77,
+    "longitude": -119.41,
+    "background": "Poet and novelist whose work was deeply influenced by blues music and oral traditions."
+  },
+  {
+    "id": 9,
+    "quote": "People wish to be poets more than they wish to write poetry and that's a mistake. One should wish to celebrate more than one wishes to be celebrated.",
+    "name": "LUCILLE CLIFTON",
+    "type": "person",
+    "country_region": "USA (New York)",
+    "latitude": 42.88,
+    "longitude": -78.87,
+    "background": "Award-winning poet who focused on African American family life and heritage."
+  },
+  {
+    "id": 10,
+    "quote": "The average man doesn't want to have to use his brain when he listens to music. Music should wash away the dust of his everyday life.",
+    "name": "ART BLAKEY",
+    "type": "person",
+    "country_region": "USA (Pennsylvania)",
+    "latitude": 40.44,
+    "longitude": -79.99,
+    "background": "Jazz drummer and pioneer of Hard Bop; leader of the Jazz Messengers."
+  },
+  {
+    "id": 11,
+    "quote": "A writer needs certain conditions in which to work and create art. She needs a piece of time; a peace of mind; a quiet place; and a private life.",
+    "name": "MARGARET WALKER",
+    "type": "person",
+    "country_region": "USA (Alabama)",
+    "latitude": 32.31,
+    "longitude": -86.3,
+    "background": "Poet and writer known for her epic novel \"Jubilee\" and her focus on the Black experience."
+  },
+  {
+    "id": 12,
+    "quote": "The artistic innovator is perhaps our society's most valuable citizen. He or she does not so much change the world, as change how we view it. They are ambassadors of peace and advocates of understanding. They melt our differences into the common ground of the dance floor, the theater, the concert hall, and a million living rooms across the nation. That is why it is im- portant that we so diligently search for them.",
+    "name": "OSSIE DAVIS",
+    "type": "person",
+    "country_region": "USA (Georgia)",
+    "latitude": 32.16,
+    "longitude": -82.9,
+    "background": "Influential actor, director, and civil rights activist."
+  },
+  {
+    "id": 13,
+    "quote": "I have a great belief in the fact that whenever there is chaos, it creates wonderful thinking. I consider chaos a gift.",
+    "name": "SEPTIMA POINSETTE CLARK",
+    "type": "person",
+    "country_region": "USA (South Carolina)",
+    "latitude": 32.77,
+    "longitude": -79.93,
+    "background": "Known as the \"Mother of the Movement,\" a pioneering educator and civil rights activist."
+  },
+  {
+    "id": 14,
+    "quote": "Art is the only thing you cannot punch a button for. You must do it the old-fashioned way. Stay up and really burn the midnight oil. There are no compromises.",
+    "name": "LEONTYNE PRICE",
+    "type": "person",
+    "country_region": "USA (Mississippi)",
+    "latitude": 31.44,
+    "longitude": -89.29,
+    "background": "Internationally acclaimed opera soprano, one of the first African Americans to achieve such fame."
+  },
+  {
+    "id": 15,
+    "quote": "Slowly, slowly one must stalk the monkey through the bush.",
+    "name": "WOLOF",
+    "type": "tribe",
+    "country_region": "Senegal",
+    "latitude": 12.65,
+    "longitude": -8.0,
+    "background": "Major ethnic group in Senegal and Gambia; known for trade and oral history."
+  },
+  {
+    "id": 16,
+    "quote": "Softly, softly ketch monkey.",
+    "name": "JAMAICA",
+    "type": "tribe",
+    "country_region": "Ghana/Togo",
+    "latitude": 6.13,
+    "longitude": 1.22,
+    "background": "West African group with strong oral traditions and a complex drumming culture."
+  },
+  {
+    "id": 17,
+    "quote": "Slowly, slowly will catch the monkey.",
+    "name": "JABO",
+    "type": "tribe",
+    "country_region": "Ghana",
+    "latitude": 5.56,
+    "longitude": -0.2,
+    "background": "Ghanaian novelist whose work explores post-colonial identity and African history."
+  },
+  {
+    "id": 18,
+    "quote": "Art is not for the cultivated taste. It is to cultivate taste.",
+    "name": "NIKKI GIOVANNI",
+    "type": "person",
+    "country_region": "Knoxville, Tennessee, USA",
+    "latitude": 35.96,
+    "longitude": -83.92,
+    "background": "American poet, writer, activist, and educator associated with the Black Arts Movement, known for work on Black life, love, memory, and political voice."
+  },
+  {
+    "id": 19,
+    "quote": "We should not have a tin cup out for something as important as the arts in this country, the richest in the world. Creative artists are always begging, but always being used when it's time to show us at our best.",
+    "name": "LEONTYNE PRICE",
+    "type": "person",
+    "country_region": "Laurel, Mississippi, USA",
+    "latitude": 31.69,
+    "longitude": -89.13,
+    "background": "American soprano and one of the first Black opera singers to achieve sustained international acclaim, especially celebrated for her performances of Verdi."
+  },
+  {
+    "id": 20,
+    "quote": "All I know about music is that not many people ever really hear it. And even then, on the rare occasions when something opens within, and the music enters, what we mainly hear, or hear corroborated, are personal, private, vanishing evocations. But the man who creates the music is hearing something else, is dealing with the roar rising from the void and imposing order on it as it hits the air. What is evoked in him, then is of another order, more terrible because it has no words, and triumphant, too, for that same reason. And his triumph, when he triumphs, is ours how awful the relationship must be between the musician and his instrument. He has to fill it, this instrument, with the breath of life, his own. He has to make it do what he wants it to do. And a piano is just a piano. It's made out of so much wood and wires and little hammers and big ones, and ivory. While there's only so much you can do with it, the only way to find this out is to try - to try and make it do everything.",
+    "name": "JAMES BALDWIN",
+    "type": "person",
+    "country_region": "New York City, New York, USA",
+    "latitude": 40.71,
+    "longitude": -74.0,
+    "background": "American essayist, novelist, and social critic whose writing powerfully examined race, sexuality, identity, and moral life in the United States and beyond."
+  },
+  {
+    "id": 21,
+    "quote": "There is no beauty but in relationships. Nothing cut off by itself is beautiful. Never can things in destructive relationships be beautiful. All beau- ty is in the creative purpose of our relationships; all ugliness is in the destructive aims of the destroyer's arrangements.",
+    "name": "AYI KWEI ARMAH",
+    "type": "person",
+    "country_region": "Takoradi, Ghana",
+    "latitude": 4.9,
+    "longitude": -1.76,
+    "background": "Ghanaian novelist and essayist whose fiction critiques colonialism, corruption, and cultural alienation while drawing on African historical consciousness."
+  },
+  {
+    "id": 22,
+    "quote": "In crooked wood one recognizes the artist.",
+    "name": "EWE",
+    "type": "tribe",
+    "country_region": "Ghana/Togo",
+    "latitude": 6.13,
+    "longitude": 1.22,
+    "background": "West African group with strong oral traditions and drumming culture."
+  },
+  {
+    "id": 23,
+    "quote": "All along the lake the larks send their sweet scat through the air. It's April. New weather jazzes the leaves The late sun - a long note blown across the water. Near shore a tadpole itching for legs.",
+    "name": "TIM SEIBLES",
+    "type": "person",
+    "country_region": "Philadelphia, Pennsylvania, USA",
+    "latitude": 39.95,
+    "longitude": -75.17,
+    "background": "American poet and educator known for vivid, rhythmically inventive writing on history, desire, race, and everyday experience."
+  },
+  {
+    "id": 24,
+    "quote": "The strongest gods are African. I tell you it's certain they could fly and they did what they liked with their witchcraft. I don't know how they permitted slavery. The truth is, I start thinking, and I can't make head or tail of it. To my mind it all started with the scarlet hand- kerchiefs, the day they crossed the wall. There was an old wall in Africa, right around the coast, made of palm bark and magic insects which stung like the devil. For years they frightened away all the whites who tried to set foot in Africa. It was the scarlet that did in the Africans; the kings saw that the whites... were taking out these scarlet handkerchiefs as if they were waving, they told the blacks, \"Go on then, go and get a scarlet handkerchief,\" and the blacks were so excited by the scarlet they ran down to the ships like sheep and they were captured. The Negro has always liked scarlet.",
+    "name": "ESTEBAN MONTEJO",
+    "type": "person",
+    "country_region": "Las Villas, Cuba",
+    "latitude": 22.41,
+    "longitude": -79.97,
+    "background": "Afro-Cuban former enslaved man, maroon, and veteran of the Cuban War of Independence whose life story became a major testimony of slavery, resistance, and memory."
+  },
+  {
+    "id": 25,
+    "quote": "Even the most incorrigible maverick has to be born somewhere. He may leave the group that produced him - he may be forced to but nothing will efface his origins, the marks of which he carries with him everywhere.",
+    "name": "JAMES BALDWIN",
+    "type": "person",
+    "country_region": "New York City, New York, USA",
+    "latitude": 40.71,
+    "longitude": -74.0,
+    "background": "American essayist, novelist, and social critic whose writing powerfully examined race, sexuality, identity, and moral life in the United States and beyond."
+  },
+  {
+    "id": 26,
+    "quote": "Black, Negro, African American, colored, etc., etc. we sometimes answer to but never inter- nalize completely because they are inadequate to describe the sense of common ground we exchange at this moment. We acknowledge the miracle and disgrace of our history in the twin- kling of an eye, many, many times a day as we meet each other, nodding or speaking or touch- ing or just passing by, seemingly without a glance. Our ancient styles of gliding through the air can say enough, say everything that needs to be said. We are linked. I know some- thing about you and you know something about me. Personal, intimate, revealing knowledge though we may never have set eyes on one another before nor will again.",
+    "name": "JOHN EDGAR WIDEMAN",
+    "type": "person",
+    "country_region": "Washington, D.C., USA",
+    "latitude": 38.91,
+    "longitude": -77.04,
+    "background": "American writer known for formally ambitious fiction and memoir centered on African American history, family, urban life, and memory."
+  },
+  {
+    "id": 27,
+    "quote": "The man who emerged from the African chrysalis was a courageous, warlike individual. He was not soft; he was hard. He had fought the tsetse fly, the mosquitoes and hundreds of nameless insects and he survived. He had wrest- ed from the hungry jungle gaps of land and had found time to think beautiful thoughts and to make beautiful things.",
+    "name": "LERONE BENNET",
+    "type": "person",
+    "country_region": "Clarksdale, Mississippi, USA",
+    "latitude": 34.2,
+    "longitude": -90.57,
+    "background": "American historian, journalist, and social critic best known for Before the Mayflower and his influential writing on Black history and race in America."
+  },
+  {
+    "id": 28,
+    "quote": "The various cultures of people of color often seem very attractive to white people. (Yes, we are wonderful, we can't deny it.) But white people should not make a playground out of other people's cultures. We are not quaint. We are not exotic. We are not cool.",
+    "name": "AMOJA THREE RIVERS",
+    "type": "person",
+    "country_region": "United States (American-born; multiracial/Indigenous and African heritage)",
+    "latitude": 39.83,
+    "longitude": -98.58,
+    "background": "American writer, activist, and cultural critic known for intersectional work on race, gender, sexuality, spirituality, and anti-oppression."
+  },
+  {
+    "id": 29,
+    "quote": "Rather a negro heart without words than negro words without heart.",
+    "name": "BAKONGO",
+    "type": "tribe",
+    "country_region": "DR Congo (Zaire)",
+    "latitude": -5.83,
+    "longitude": 13.05,
+    "background": "Bantu-speaking group; historically part of the Kingdom of Kongo with complex spiritual cosmology."
+  },
+  {
+    "id": 30,
+    "quote": "American culture ... is, I think, essentially black. From rock and roll, to language, to the things that young white kids aspire to be. When they think of cool, their definition of cool comes from what is cool for black people....",
+    "name": "EDDY L. HARRIS",
+    "type": "person",
+    "country_region": "Indianapolis, Indiana, USA",
+    "latitude": 39.77,
+    "longitude": -86.16,
+    "background": "American writer and filmmaker known for travel writing and memoir that connect movement through place with reflection on Black identity and history."
+  },
+  {
+    "id": 31,
+    "quote": "Black will blacken people.",
+    "name": "NYANG",
+    "type": "tribe",
+    "country_region": "Cameroon (Grassfields region)",
+    "latitude": 5.96,
+    "longitude": 10.16,
+    "background": "A Grassfields community in western Cameroon known for strong kinship structures, oral tradition, and proverb-rich communal life."
+  },
+  {
+    "id": 32,
+    "quote": "Everybody can blush. Everybody can bruise. Everybody can tan and get sunburned. Everybody.",
+    "name": "AMOJA THREE RIVERS",
+    "type": "person",
+    "country_region": "United States (American-born; multiracial/Indigenous and African heritage)",
+    "latitude": 39.83,
+    "longitude": -98.58,
+    "background": "American writer, activist, and cultural critic known for intersectional work on race, gender, sexuality, spirituality, and anti-oppression."
+  },
+  {
+    "id": 33,
+    "quote": "The black man has a rib and a cup of blood more than the white man.",
+    "name": "MOROCCO",
+    "type": "tribe",
+    "country_region": "Morocco (Northwest Africa)",
+    "latitude": 34.02,
+    "longitude": -6.84,
+    "background": "A North African country shaped by Amazigh, Arab, African, Mediterranean, and Islamic histories; often associated with Maghrebi cultural traditions and trans-Saharan exchange."
+  },
+  {
+    "id": 34,
+    "quote": "If there had been no poverty in Europe, then the white man would not have come to spread his clothes in Africa.",
+    "name": "OJI",
+    "type": "tribe",
+    "country_region": "Ghana",
+    "latitude": 6.69,
+    "longitude": -1.63,
+    "background": "Part of Akan people; known for the Ashanti Empire, gold culture, and strong matrilineal traditions."
+  },
+  {
+    "id": 35,
+    "quote": "We live surrounded by white images, and white in this world is synonymous with the good, light, beauty, success, so that, despite ourselves sometimes, we run after that whiteness and deny our darkness, which has been made into the symbol of all that is evil and inferior.",
+    "name": "PAULE MARSHALL",
+    "type": "person",
+    "country_region": "Brooklyn, New York, USA / Barbadian family roots",
+    "latitude": 40.68,
+    "longitude": -73.94,
+    "background": "American novelist of Barbadian descent whose work explores diaspora, migration, language, memory, and the recovery of African and Caribbean heritage."
+  },
+  {
+    "id": 36,
+    "quote": "People of the same blood eat from the same pot.",
+    "name": "SOTHO",
+    "type": "tribe",
+    "country_region": "Lesotho",
+    "latitude": -29.31,
+    "longitude": 27.48,
+    "background": "Southern African people with strong pastoral traditions and mountainous cultural identity."
+  },
+  {
+    "id": 37,
+    "quote": "Anything I have ever learned of any conse- quence, I have learned from black people. I have never been bored by any black person, ever.",
+    "name": "TONI MORRISON",
+    "type": "person",
+    "country_region": "Lorain, Ohio, USA",
+    "latitude": 41.45,
+    "longitude": -82.18,
+    "background": "American novelist, editor, and Nobel laureate whose writing profoundly shaped modern literature through its exploration of Black life, history, memory, and language."
+  },
+  {
+    "id": 38,
+    "quote": "What our girls and women have a right to demand from our best men is that they cease to imitate the artificial standards of other people and create a race standard for their own.",
+    "name": "FANNIE BARRIER WILLIAMS",
+    "type": "person",
+    "country_region": "Brockport, New York, USA",
+    "latitude": 43.21,
+    "longitude": -77.94,
+    "background": "American educator, lecturer, and civil rights activist who advanced Black women’s political and cultural leadership in the late nineteenth and early twentieth centuries."
+  },
+  {
+    "id": 39,
+    "quote": "It is within the race where integration is not only needed, but mandatory. We shall remain a weak people until we begin the drive for inte- gration of blacks first of all, instead of battling to integrate with other peoples.",
+    "name": "CHANCELLOR WILLIAMS",
+    "type": "person",
+    "country_region": "Bennettsville, South Carolina, USA",
+    "latitude": 34.62,
+    "longitude": -79.68,
+    "background": "American historian, sociologist, and writer known for Afrocentric interpretations of African civilization and diasporic political thought."
+  },
+  {
+    "id": 40,
+    "quote": "The world is white no longer, and it will never be white again.",
+    "name": "JAMES BALDWIN",
+    "type": "person",
+    "country_region": "New York City, New York, USA",
+    "latitude": 40.71,
+    "longitude": -74.0,
+    "background": "American essayist, novelist, and social critic whose writing powerfully examined race, sexuality, identity, and moral life in the United States and beyond."
+  },
+  {
+    "id": 41,
+    "quote": "But I am not tragically colored. There is no great sorrow dammed up in my soul, not lurking behind my eyes. I do not mind at all. I do not belong to the sobbing school of negrohood who hold that nature somehow has given them a lowdown dirty deal and whose feelings are all hurt about it. Even in the helter-skelter skirmish that is my life, I have seen that the world is to the strong regardless of a little pigmentation more or less. No, I do not weep at the world — I am too busy sharpening my oyster knife.",
+    "name": "ZORA NEALE HURSTON",
+    "type": "person",
+    "country_region": "Notasulga, Alabama, USA",
+    "latitude": 32.56,
+    "longitude": -85.67,
+    "background": "American writer, folklorist, and anthropologist associated with the Harlem Renaissance, celebrated for preserving Black Southern folklore and for novels such as Their Eyes Were Watching God."
+  },
+  {
+    "id": 42,
+    "quote": "The African race is an India rubber ball; the harder you dash it to the ground, the higher it will rise.",
+    "name": "BANTU",
+    "type": "tribe",
+    "country_region": "Southern Africa",
+    "latitude": -15.0,
+    "longitude": 25.0,
+    "background": "Large linguistic-cultural family spanning central and southern Africa; known for migration and language diffusion."
+  },
+  {
+    "id": 43,
+    "quote": "Europeans created and popularized the image of Africa as a jungle, a wild place where people were cannibals, naked and savage in a country- side overrun with dangerous animals. Such an image of the Africans was so hateful to Afro- Americans that they refused to identify with Africa. We did not realize that in hating Africa and the Africans we were hating ourselves. You cannot hate the roots of a tree and not hate the tree itself.",
+    "name": "MALCOLM X",
+    "type": "person",
+    "country_region": "Omaha, Nebraska, USA",
+    "latitude": 41.26,
+    "longitude": -95.94,
+    "background": "African American leader and major figure in the Nation of Islam who articulated Black nationalism, self-determination, and global anti-racist solidarity."
+  },
+  {
+    "id": 44,
+    "quote": "One finger can't catch a mother louse.",
+    "name": "NYANG",
+    "type": "tribe",
+    "country_region": "Cameroon (Grassfields region)",
+    "latitude": 5.96,
+    "longitude": 10.16,
+    "background": "A Grassfields community in western Cameroon known for strong kinship structures, oral tradition, and proverb-rich communal life."
+  },
+  {
+    "id": 45,
+    "quote": "Foreigners may call us a nation of busybodies, but to us an individual's life belongs to the com- munity and not just to him or her. So a person has no right to take his or her life while another member of the community looks on. He must interfere. He must stop it from happening.",
+    "name": "BUCHI EMECHETA",
+    "type": "person",
+    "country_region": "Lagos, Nigeria / Igbo heritage",
+    "latitude": 6.52,
+    "longitude": 3.38,
+    "background": "Nigerian-born Igbo novelist whose fiction explores migration, gender inequality, motherhood, education, and the tensions between tradition and modernity."
+  },
+  {
+    "id": 46,
+    "quote": "When black man steal him steal half a bit; but when white man steal him steal a whole sugar plantation.",
+    "name": "JAMAICA",
+    "type": "tribe",
+    "country_region": "Jamaica (Caribbean)",
+    "latitude": 17.97,
+    "longitude": -76.79,
+    "background": "A Caribbean island nation deeply shaped by African diasporic history, slavery, resistance, Creole language, and influential musical and religious traditions including Rastafari."
+  },
+  {
+    "id": 47,
+    "quote": "You think dark is just one color, but it ain't. They're five or six kinds of blacks. Some silky, some wooly. Some just empty. Some like fingers. And it don't stay still. It moves and changes from one kind of black to another. Saying some- thing is pitch black is like saying something is green. What kind of green? Green like my bot- tles? Green like a grasshopper? Green like a cucumber, lettuce, or green like the sky is just before it breaks loose to storm? Well, night black is the same way. Might as well be a rainbow.",
+    "name": "TONI MORRISON",
+    "type": "person",
+    "country_region": "Lorain, Ohio, USA",
+    "latitude": 41.45,
+    "longitude": -82.18,
+    "background": "American novelist, editor, and Nobel laureate whose writing profoundly shaped modern literature through its exploration of Black life, history, memory, and language."
+  },
+  {
+    "id": 48,
+    "quote": "Equal rights and equal justice will never come from appeals to the mighty, and granted as an Act of Grace, but only from their own position of power and influence which develop from a united people engaged in great and vast under- takings of their own. If we fail to accept this challenge at this critical turning point in our history, we will have proved ourselves unwor- thy of having any descendants, and our very names should be forgotten by them — or cursed by the farthest generation.",
+    "name": "CHANCELLOR WILLIAMS",
+    "type": "person",
+    "country_region": "Bennettsville, South Carolina, USA",
+    "latitude": 34.62,
+    "longitude": -79.68,
+    "background": "American historian, sociologist, and writer known for Afrocentric interpretations of African civilization and diasporic political thought."
+  },
+  {
+    "id": 49,
+    "quote": "I am because we are, and since we are therefore I am.",
+    "name": "JOHN MBITI",
+    "type": "person",
+    "country_region": "Mulango, Kenya",
+    "latitude": -1.27,
+    "longitude": 38.13,
+    "background": "Kenyan philosopher, theologian, and writer whose work on African religions and philosophy helped reshape global understanding of African intellectual traditions."
+  },
+  {
+    "id": 50,
+    "quote": "Africa is never the same to anyone who leaves it and returns again. It is not a land of changes, but it is a land of moods, and its moods are number- less. It is not fickle, but because it has mothered not only men, but races, and cradles not only cities, but civilizations - and seen them die, and see new ones born again Africa can be dispas- sionate, indifferent, warm, or cynical, replete with the weariness of too much wisdom.",
+    "name": "BERYL MARKHAM",
+    "type": "person",
+    "country_region": "Leicester, England / long association with Kenya",
+    "latitude": 52.64,
+    "longitude": -1.13,
+    "background": "British-born aviator, horse trainer, and writer closely associated with colonial Kenya, best known for West with the Night and her pioneering transatlantic flight."
+  },
+  {
+    "id": 51,
+    "quote": "Zion me wan go home, Zion me wan go home, Oh, oh, Zion me wan go home. Africa, me wan fe  go, Africa, me wan fe go, Oh, oh, Africa, me wan fe go. Take me back to Et'iopea lan, Take me back to Et'iopea lan, Oh, oh, Take me back to Et'iopea lan. Zion me wan go home, Zion me wan go home, Oh, oh, Zion me wan go home.",
+    "name": "RASTAFARIAN CHANT",
+    "type": "tribe",
+    "country_region": "Jamaica / Ethiopia (symbolic homeland)",
+    "latitude": 17.97,
+    "longitude": -76.79,
+    "background": "A devotional chant tradition associated with the Rastafari movement, which emerged in Jamaica in the 1930s and spiritually centers Africa, especially Ethiopia, as a sacred homeland."
+  }
+]

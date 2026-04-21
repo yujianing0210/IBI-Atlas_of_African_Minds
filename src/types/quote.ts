@@ -1,14 +1,16 @@
-export interface QuoteEntry {
-  source: string
-  location: string
-  latitude: number
-  longitude: number
-  background: string
-  quote: string
+export interface Quote {
+  id: number;
+  quote: string;
+  name: string;
+  type: 'person' | 'tribe';
+  country_region: string;
+  latitude: number;
+  longitude: number;
+  background: string;
 }
 
 export interface QuoteMatchResult {
-  entry: QuoteEntry
-  reasoning: string
-  score: number
+  entry: Quote;
+  reasoning: string;
+  score: number;
 }
